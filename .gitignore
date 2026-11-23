@@ -1,0 +1,4 @@
+.DS_Store
+*py*cache*/
+.venv
+*.db
